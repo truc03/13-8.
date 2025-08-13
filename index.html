@@ -1,0 +1,788 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Thanh Hòa & Ngọc Linh Wedding</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      background-color: #f8f8f8;
+      color: #333;
+    }
+
+    .hero {
+      background: url('img/small.jpg') center/cover no-repeat;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      color: white;
+      text-align: center;
+      position: relative;
+    }
+
+    .hero h1 {
+      font-family: 'Playball', cursive;
+      font-size: 4rem;
+      margin: 0;
+    }
+
+    .hero p {
+      font-size: 1.5rem;
+      margin: 10px 0;
+    }
+
+    nav {
+      position: sticky;
+      top: 0;
+      background: rgba(255, 255, 255, 0.9);
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      padding: 15px 0;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      z-index: 10;
+    }
+
+    nav a {
+      color: #ff4e6e;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1rem;
+      text-transform: uppercase;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    nav a:hover {
+      color: #e9435a;
+    }
+
+    .couple {
+      padding: 60px 20px;
+      text-align: center;
+    }
+
+    .couple-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 50px;
+    }
+
+    .person {
+      max-width: 350px;
+      text-align: center;
+    }
+
+    .person img {
+      width: 220px;
+      height: 220px;
+      object-fit: cover;
+      border-radius: 50%;
+      border: 6px solid #ff6e83;
+    }
+
+    .person h3 {
+      font-family: 'Playball', cursive;
+      font-size: 1.8rem;
+      margin: 15px 0 5px;
+      color: #666;
+    }
+
+    .person .relation {
+      font-size: 0.95rem;
+      color: #666;
+      margin-bottom: 10px;
+    }
+
+    .person .relation span {
+      font-weight: bold;
+      color: #333;
+    }
+
+    .person p {
+      font-size: 0.9rem;
+      color: #777;
+      line-height: 1.5;
+    }
+
+    .couple-buttons {
+      margin-top: 40px;
+    }
+
+    .couple-buttons button {
+      background-color: #ff6e83;
+      border: none;
+      color: white;
+      padding: 12px 20px;
+      font-size: 0.95rem;
+      margin: 5px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-weight: bold;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .couple-buttons button:hover {
+      background-color: #e85c70;
+    }
+
+    .timeline-section {
+      text-align: center;
+      padding: 50px 20px;
+    }
+
+    .section-title {
+      font-family: 'Great Vibes', cursive;
+      font-size: 36px;
+      color: #b07f57;
+      margin-bottom: 10px;
+    }
+
+    .section-subtitle {
+      font-style: italic;
+      font-size: 14px;
+      color: #3b4cb1;
+      margin-bottom: 40px;
+    }
+
+    .timeline {
+      position: relative;
+      max-width: 800px;
+      margin: auto;
+    }
+
+    .timeline::after {
+      content: '';
+      position: absolute;
+      width: 2px;
+      background-color: #f3c;
+      top: 0;
+      bottom: 0;
+      left: 50%;
+      margin-left: -1px;
+    }
+
+    .timeline-item {
+      padding: 20px;
+      position: relative;
+      width: 50%;
+    }
+
+    .timeline-item:nth-child(odd) {
+      left: 0;
+    }
+
+    .timeline-item:nth-child(even) {
+      left: 50%;
+    }
+
+    .timeline-date {
+      color: #e74c3c;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+
+    .timeline-content {
+      background: white;
+      padding: 15px;
+      border-radius: 5px;
+      border: 1px solid #eee;
+    }
+
+    .timeline-content img {
+      max-width: 100%;
+      border-radius: 5px;
+    }
+
+    .timeline-content h3 {
+      font-style: italic;
+      margin: 10px 0;
+    }
+
+    .timeline-content p {
+      font-size: 14px;
+      color: #555;
+    }
+
+    /* Phần tiêu đề */
+    .quote {
+      text-align: center;
+      font-style: italic;
+      font-size: 18px;
+      color: #d44a6f;
+      margin: 40px 20px 0;
+    }
+
+    /* Tiêu đề Album */
+    .album-title {
+      text-align: center;
+      margin-top: 20px;
+    }
+
+    .album-title h2 {
+      font-family: 'Brush Script MT', cursive;
+      font-size: 36px;
+      color: #555;
+      margin-bottom: 5px;
+    }
+
+    .album-title p {
+      font-size: 14px;
+      color: #777;
+      max-width: 500px;
+      margin: 0 auto;
+    }
+
+    /* Bố cục 2 cột */
+    .album-container {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+      max-width: 1000px;
+      margin: 30px auto;
+      padding: 0 20px;
+    }
+
+    .album-container img {
+      width: 100%;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      transition: transform 0.3s ease;
+    }
+
+    .album-container img:hover {
+      transform: scale(1.03);
+    }
+
+    @media (max-width: 768px) {
+      .album-container {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    /* Tiêu đề */
+    .section-title {
+      text-align: center;
+      margin-top: 40px;
+    }
+
+    .section-title h2 {
+      font-family: 'Brush Script MT', cursive;
+      font-size: 42px;
+      color: #8b5e58;
+      margin-bottom: 10px;
+    }
+
+    .section-title p {
+      font-size: 14px;
+      color: #777;
+      max-width: 500px;
+      margin: 0 auto;
+    }
+
+    /* Grid card */
+    .event-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 20px;
+      max-width: 1100px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+
+    /* Card */
+    .event-card {
+      background: white;
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      display: flex;
+      flex-direction: column;
+      transition: transform 0.3s ease;
+    }
+
+    .event-card:hover {
+      transform: translateY(-5px);
+    }
+
+    .event-card img {
+      width: 100%;
+      height: auto;
+    }
+
+    .event-content {
+      padding: 15px;
+      text-align: center;
+      flex-grow: 1;
+    }
+
+    .event-time {
+      font-weight: bold;
+      color: #8b5e58;
+      margin-bottom: 5px;
+    }
+
+    .event-location {
+      font-size: 13px;
+      color: #555;
+      margin-bottom: 15px;
+    }
+
+    /* Buttons */
+    .event-buttons {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      padding: 0 15px 15px;
+    }
+
+    .btn {
+      display: inline-block;
+      padding: 10px;
+      border-radius: 25px;
+      text-decoration: none;
+      font-size: 14px;
+      text-align: center;
+      transition: 0.3s;
+    }
+
+    .btn-outline {
+      border: 1px solid #ccc;
+      color: #555;
+      background: white;
+    }
+
+    .btn-outline:hover {
+      border-color: #8b5e58;
+      color: #8b5e58;
+    }
+
+    .btn-pink {
+      background: #f06277;
+      color: white;
+      font-weight: bold;
+    }
+
+    .btn-pink:hover {
+      background: #e74c63;
+    }
+
+    h2 {
+      font-family: 'Brush Script MT', cursive;
+      font-size: 36px;
+      color: #a9746e;
+      margin-bottom: 5px;
+    }
+
+    p.subtitle {
+      font-style: italic;
+      color: #777;
+      margin-bottom: 40px;
+    }
+
+    .cards-container {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+      max-width: 1100px;
+      margin: auto;
+    }
+
+    .card {
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      text-align: left;
+    }
+
+    .card img {
+      width: 100%;
+      height: 260px;
+      object-fit: cover;
+    }
+
+    .card-content {
+      padding: 15px;
+    }
+
+    .card h3 {
+      font-size: 16px;
+      font-weight: bold;
+      color: #333;
+      margin: 0 0 10px;
+      text-transform: uppercase;
+    }
+
+    .card p {
+      font-size: 14px;
+      color: #555;
+      margin: 5px 0;
+    }
+
+    .btn {
+      display: inline-block;
+      margin-top: 10px;
+      padding: 8px 12px;
+      border-radius: 20px;
+      background: #f65b6c;
+      color: white;
+      font-size: 14px;
+      text-decoration: none;
+      text-align: center;
+    }
+
+    .btn-secondary {
+      background: #eee;
+      color: #333;
+      margin-right: 5px;
+    }
+.guestbook-section {
+  background: url('img/111.jpg') center/cover no-repeat;
+  padding: 50px 0;
+  color: white;
+  position: relative;
+}
+
+.guestbook-overlay {
+  background: rgba(0, 0, 0, 0.3);
+  padding: 30px;
+}
+
+.guestbook-title {
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  font-size: 48px;
+  margin-bottom: 30px;
+}
+
+.guestbook-content {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.guestbook-form {
+  background: rgba(255,255,255,0.8);
+  padding: 20px;
+  flex: 1;
+  min-width: 300px;
+  color: black;
+}
+
+.guestbook-form input,
+.guestbook-form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+}
+
+.guestbook-form button {
+  background: #ff4f7c;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+}
+
+.guestbook-messages {
+  background: rgba(255,255,255,0.8);
+  padding: 20px;
+  flex: 1;
+  min-width: 300px;
+  color: black;
+}
+
+.guestbook-messages .message {
+  border-bottom: 1px solid #ddd;
+  padding: 10px 0;
+}
+
+  </style>
+  <!-- Tùy chọn: thêm font Playball từ Google Fonts -->
+  <link href="img/small(1).jpg" rel="stylesheet">
+</head>
+
+<body>
+
+  <header class="hero">
+    <h1>Thanh Hòa & Ngọc Linh</h1>
+    <p>16 November 2024</p>
+  </header>
+
+  <nav>
+    <a href="#couple">Cặp đôi</a>
+    <a href="#love-story">Chuyện tình yêu</a>
+    <a href="#album">Album cưới</a>
+    <a href="#events">Sự kiện cưới</a>
+    <a href="#guestbook">Sổ lưu bút</a>
+  </nav>
+
+  <section class="couple" id="couple">
+    <div class="couple-container">
+
+      <!-- Chú rể -->
+      <div class="person">
+        <img
+          src="https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/c95674270aed1b92f8a0dd0861d0de45.jpeg"
+          alt="Chú rể">
+        <h3>Mai Thanh Hòa</h3>
+        <div class="relation">
+          His son: <span>Mai Thanh Hai</span><br>
+          Her daughter: <span>Tang Thi Hoang</span>
+        </div>
+        <p>
+          As the Founder and CEO of a million-dollar media and e-commerce company in Ho Chi Minh City,
+          I was born in the year of the Monkey, with the main number 3. I value sincerity and prestige,
+          and I know how to balance between developing my career and spending time with my family.
+        </p>
+      </div>
+
+      <!-- Cô dâu -->
+      <div class="person">
+        <img src="img/small(4).jpg" alt="Cô dâu">
+        <h3>Nguyen Thi Ngoc Linh</h3>
+        <div class="relation">
+          His son: <span>Nguyen Ngoc Bich</span><br>
+          Her daughter: <span>Nguyen Thi Thanh</span>
+        </div>
+        <p>
+          The 2K girl from Quy Nhon, living and working in Ho Chi Minh City.
+          She smiles a lot but is introverted, passionate about dancing, and loves nature.
+        </p>
+      </div>
+    </div>
+
+    <!-- Nút -->
+    <div class="couple-buttons">
+      <button>💌 Send Wishes</button>
+      <button>📅 Confirmation of Attendance</button>
+    </div>
+
+  </section>
+  <section id="love-story" class="timeline-section">
+    <h2 class="section-title">Love story</h2>
+    <p class="section-subtitle">Great love is not loving many people, but loving one person for a lifetime.</p>
+
+    <div class="timeline">
+      <!-- Item 1 -->
+      <div class="timeline-item">
+        <div class="timeline-date">January 14 2024</div>
+        <div class="timeline-content">
+          <img
+            src="https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/9fc5fe51de5976a66d431de001f8621d.jpeg"
+            alt="Proposal moment">
+          <h3>The moment of proposal</h3>
+          <p>Vào một ngày đẹp trời anh hay hỏi em thích đi du lịch ở đâu (lúc này anh lên kế hoạch cầu hôn em), nhưng vì
+            công việc em không thể đi du lịch tại thời điểm đó. Thế là nhân dịp sinh nhật anh đã cầu hôn em, từ giây
+            phút anh ngỏ lời “Làm vợ anh nhé!”, em đã nguyện ý đời này, đi đâu cũng được, miễn là cùng anh.</p>
+        </div>
+      </div>
+
+      <!-- Item 2 -->
+      <div class="timeline-item">
+        <div class="timeline-date">October 22 2024</div>
+        <div class="timeline-content">
+          <img
+            src="https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/356cd09f6994c2bdb69aa067f7dbc833.jpeg"
+            alt="Engagement Day">
+          <h3>Engagement Day</h3>
+          <p>“Tiếng trái tim đôi ta đập thật nhanh. Thì thầm lời yêu thương. Ngày tình về chung đôi...” Sau bao nhiêu
+            ngày tháng chờ đợi, cuối cùng ngày vui của chúng ta cũng tới rồi. Cảm ơn vì chúng ta đã luôn là một phần
+            trong cuộc sống của nhau. Em và anh không chỉ là người yêu mà chúng ta còn là tri kỷ. Ngày hôm nay, em sẽ là
+            cô dâu của anh và sau này sẽ là mẹ của các con anh.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <div class="quote">
+    <img
+      src="https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/templates/6174edbdff1ef271cb2d8bc4/0b58052cd14c979b81d4d8a13f81a36a.jpg"
+      alt=""> ❝ Tình yêu không phải là nhìn vào nhau, mà là cùng nhìn về một hướng. ❞
+  </div>
+
+  <!-- Tiêu đề Album -->
+  <section id="album">
+
+    <div class="album-title">
+      <h2>Album Hình Cưới</h2>
+      <p>Hạnh phúc không phải một người vì bạn mà bỏ cả thế giới.
+        Hạnh phúc là một người vì bạn mà sắp xếp lại thế giới của mình.</p>
+    </div>
+
+    <!-- Grid ảnh -->
+    <div class="album-container">
+      <img
+        src="https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d16d1cfab41bf0a09bbd6/large.jpg"
+        alt="Ảnh cưới 1">
+      <div class="container">
+        <img
+          src="https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d16bfc296c17a810b593b/large.jpg"
+          alt="Ảnh cưới 2">
+        <img
+          src="https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d16b6d4f7e3c4990b2674/large.jpg"
+          alt="Ảnh cưới 3">
+      </div>
+      <img src="img/small(3).jpg" alt="Ảnh cưới 4">
+      <img src="img/small(4).jpg" alt="Ảnh cưới 5">
+      <img src="img/small(5).jpg" alt="Ảnh cưới 6">
+      <img src="img/small(6).jpg" alt="Ảnh cưới 7">
+      <img src="img/small(7).jpg" alt="Ảnh cưới 8">
+      <img src="img/small(8).jpg" alt="Ảnh cưới 8">
+    </div>
+  </section>
+  <section id="events">
+
+    <!-- Tiêu đề -->
+    <div class="section-title">
+      <h2>Wedding Events</h2>
+      <p>It takes only a few seconds to say "I love you" but a lifetime to show it.</p>
+    </div>
+    <div class="cards-container">
+      <!-- Card 1 -->
+      <div class="card">
+        <img
+          src="https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d16bfc296c17a810b593b/large.jpg"
+          alt="Engagement">
+        <div class="card-content">
+          <h3>Engagement</h3>
+          <p>10:00 October 22, 2024</p>
+          <p>Bride's House - Quang Trung Ward, Quy Nhon, Binh Dinh</p>
+          <a href="#" class="btn-secondary">Add to calendar</a>
+          <a href="#" class="btn">View Map</a>
+        </div>
+      </div>
+      <!-- Card 2 -->
+      <div class="card">
+        <img src="img/small(4).jpg" alt="Bride's Wedding Party">
+        <div class="card-content">
+          <h3>Bride's Wedding Party</h3>
+          <p>17:30 11/06/2024</p>
+          <p>Beet and Area Restaurant 2 - Le Loi Street, Quy Nhon, Binh Dinh</p>
+          <a href="#" class="btn-secondary">Add to calendar</a>
+          <a href="#" class="btn">View Map</a>
+        </div>
+      </div>
+      <!-- Card 3 -->
+      <div class="card">
+        <img src="img/small(1).jpg" alt="Wedding Ceremony">
+        <div class="card-content">
+          <h3>Wedding Ceremony</h3>
+          <p>06:00 11/08/2024</p>
+          <p>Bride's House - Quang Trung Ward, Quy Nhon, Binh Dinh</p>
+          <a href="#" class="btn-secondary">Add to calendar</a>
+          <a href="#" class="btn">View Map</a>
+        </div>
+      </div>
+      <!-- Card 4 -->
+      <div class="card">
+        <img src="img/small(9).jpg" alt="Wedding Ceremony">
+        <div class="card-content">
+          <h3>Wedding Ceremony</h3>
+          <p>10:00 11/08/2024</p>
+          <p>Groom's House - Xuan An, Cat Minh, Phu Cat, Binh Dinh</p>
+          <a href="#" class="btn-secondary">Add to calendar</a>
+          <a href="#" class="btn">View Map</a>
+        </div>
+      </div>
+      <!-- Card 5 -->
+      <div class="card">
+        <img
+          src="https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c2cb0fa87e66c0359aa/large.jpg"
+          alt="Groom's Wedding Party">
+        <div class="card-content">
+          <h3>Groom's Wedding Party</h3>
+          <p>11:30 11/08/2024</p>
+          <p>Hoang Hai Restaurant - Xuan An, Cat Minh, Phu Cat, Binh Dinh</p>
+          <a href="#" class="btn-secondary">Add to calendar</a>
+          <a href="#" class="btn">View Map</a>
+        </div>
+      </div>
+      <!-- Card 6 -->
+      <div class="card">
+        <img src="img/small(1).jpg" alt="Wedding Announcement - HCM">
+        <div class="card-content">
+          <h3>Wedding Announcement - HCM</h3>
+          <p>17:30 11/16/2024</p>
+          <p>Gold Palace Restaurant - 329 No Trang Long, Binh Thanh, HCM</p>
+          <a href="#" class="btn-secondary">Add to calendar</a>
+          <a href="#" class="btn">View Map</a>
+        </div>
+      </div>
+    </div>
+
+  </section>
+  <section id="guestbook">
+   <section class="guestbook-section">
+  <div class="guestbook-overlay">
+    <h2 class="guestbook-title">Guestbook</h2>
+    <div class="guestbook-content">
+      
+      <!-- Form gửi lời chúc -->
+      <div class="guestbook-form">
+        <p>Thank you so much ❤️ for sending your best wishes on our wedding!</p>
+        <input type="text" placeholder="Enter your full name*" />
+        <input type="email" placeholder="Enter email" />
+        <textarea placeholder="Enter your greeting*"></textarea>
+        <button>Send wishes</button>
+      </div>
+
+      <!-- Danh sách lời chúc -->
+      <div class="guestbook-messages">
+        <div class="message">
+          <strong>Fake Jade Bamboo Forest</strong>
+          <p>Wishing you both good news soon, and the good news is: husband and wife are always happy every day...</p>
+        </div>
+        <div class="message">
+          <strong>Nguyen Thanh Phong</strong>
+          <p>I wish you two a hundred years of happiness and a life of peace 💕</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+  </section>
+  <footer>
+  <div class="abc" style="text-align: center;">
+  <h4>Opening: Thank you all my dear friends! I know you are very busy, busy with family work… But you are all here
+      today to celebrate our love and happiness. Once again, thank you all from the bottom of my heart!</h4>
+      <h3>Thanh Hoa & Ngoc Linh</h3>
+  </div>
+    
+  </footer>
+  <script>
+    document.getElementById('cate-couple').addEventListener('click', function (e) {
+      e.preventDefault();
+      document.getElementById('couple-section').scrollIntoView({
+        behavior: 'smooth'
+      });
+    });
+
+    document.getElementById('cate-truelove').addEventListener('click', function (e) {
+      e.preventDefault();
+      document.getElementById('truelove-section').scrollIntoView({
+        behavior: 'smooth'
+      });
+    });
+
+  </script>
+</body>
+
+</html>

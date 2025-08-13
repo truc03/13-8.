@@ -1,0 +1,1636 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Thanh Hòa &amp; Ngọc Linh Wedding site!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Mai Thanh Hòa &amp; Nguyễn Thị Ngọc Linh - Our wedding date: 2024-11-16 | Điều tuyệt vời nhất mà bạn từng học là yêu và được yêu để đáp lại">
+    <meta name="keywords" content="Wedding, Wedding website, Website đám cưới, Tạo website đám cưới miễn phí">
+    <meta property="og:site_name" content="Mai Thanh Hòa &amp; Nguyễn Thị Ngọc Linh">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Thanh Hòa &amp; Ngọc Linh Wedding site!">
+    <meta property="og:url" content="https://maithanhhoa.com">
+    <meta property="og:description" content="Mai Thanh Hòa &amp; Nguyễn Thị Ngọc Linh - Our wedding date: 2024-11-16 | Điều tuyệt vời nhất mà bạn từng học là yêu và được yêu để đáp lại">
+    <meta property="og:image" content="https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/d61909ca6e4472f1030250a1ed0b24ee.jpeg">
+    <meta property="og:image:url" content="https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/d61909ca6e4472f1030250a1ed0b24ee.jpeg">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="application-name" content="iWedding">
+    <meta name="author" content="Biihappy.com">
+    <meta property="og:image:secure_url" content="https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/d61909ca6e4472f1030250a1ed0b24ee.jpeg">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/0587aa1824ffcb118cf263b7ab4588f1.png">
+    <link href="https://maithanhhoa.com/templates/template3/css/libs.css?v=202506122" rel="stylesheet">
+    <link rel='stylesheet' type='text/css' href='https://fonts.googleapis.com/css?family=Oswald:400,300,700'>
+    <link rel='stylesheet' type='text/css' href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800,300italic,400italic,700italic,600italic,800italic'>
+    <link href="https://fonts.googleapis.com/css?family=Playball&amp;display=swap" rel="stylesheet">
+    <link href="https://maithanhhoa.com/common/calendar.css?v=202506122" rel="stylesheet">
+    <link href="https://maithanhhoa.com/common/toastr/toastr.min.css?v=202506122" rel="stylesheet">
+    <link href="https://maithanhhoa.com/templates/template3/css/style.css?v=202506122" rel="stylesheet">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-K9L0ZFE1PJ"></script>
+	<script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-K9L0ZFE1PJ');</script>
+  </head>
+  <script type="text/javascript">
+    var photoGalleries = [];
+    var dataWishes = [];
+  </script>
+  <body>
+    <div id="fullscreenloading">
+        <div id="fullscreenloading-content">
+            <div id="boxedResult">
+                <div id="sendResult">
+                    <div class="uil-rolling-css"><div><div></div><div></div></div></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <section id="home" data-stellar-background-ratio="0.5" style="background:url(https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/templates/6174edbdff1ef271cb2d8bc4/17d4c93edd67878b244319899b258f2a.jpg) no-repeat;">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <h3 class="title"><span></span>We are getting married!<span></span></h3>
+                    <ul class="names">
+                        <li>Thanh Hòa</li>
+                        <li class="circle">&amp;</li>
+                        <li>Ngọc Linh</li>
+                    </ul>
+                    <div class="date">16 November 2024</div>
+                    <!--<div class="hour">5:00 <span>pm</span></div>-->
+                    <!--<div class="place">-->
+                    <!--    <h3>Antigua Event Saloon</h3>-->
+                    <!--    <p>453 West Street #56-WE3547 - Macondo, Florida.</p>-->
+                    <!--</div>-->
+                </div>
+            </div>
+        </div>
+    </section>
+    <header>
+        <div class="sticky-wrapper" id="nav-sticky-wrapper"><nav id="nav" class="navbar navbar-default">
+            <div class="container">
+                <a class="navbar-brand" href="#home">
+                    <ul class="names">
+                        <li>TH</li>
+                        <li class="circle">&amp;</li>
+                        <li>NL</li>
+                    </ul>
+                </a>
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#nav_menu">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="collapse navbar-collapse" id="nav_menu">
+                    <ul id="nav_list" class="nav navbar-nav navbar-right">
+                        <li class=""><a href="#couple">Cặp đôi</a></li>
+                        
+                                                <li class=""><a href="#our-story">Chuyện tình yêu</a></li>
+                                                
+                                                
+                                                <li class=""><a href="#gallery">Album Hình Cưới</a></li>
+                                                
+                                                <li class=""><a href="#events">Sự kiện cưới</a></li>
+                                                
+                                                <li class=""><a href="#wishes">Sổ Lưu Bút</a></li>
+                                                
+                                            </ul>
+                </div>
+            </div>
+        </nav></div>
+    </header>
+    <section id="couple" class="bg-gray-1">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-xs-12 text-center">
+                    <div class="profile">
+                        <img src="https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/c95674270aed1b92f8a0dd0861d0de45.jpeg" class="img-responsive img-circle" alt="Groom"/>
+                        <!--<h4>16/01/1993</h4>-->
+                        <h2>Mai Thanh Hòa</h2>
+                                                    <div class="parent-infos">
+                                	                                	<div class="parent-info"><span class="parent-title">Con ông:</span> <span class="parent-name">Mai Thanh Hải</span></div>
+                                	                                	
+                                	                                	<div class="parent-info"><span class="parent-title">Con bà:</span> <span class="parent-name">Tăng Thị Hoàng</span></div>
+                                	                                </div>
+                                                        <p>Là Founder và CEO của một công ty truyền thông và thương mại điện tử triệu đô tại TP. Hồ Chí Minh, tôi sinh năm Nhâm Thân, với con số chủ đạo 3. Tôi là người khiêm tốn, kiệm lời và rất nguyên tắc trong công việc. Tôi luôn coi trọng sự chân thành và uy tín. Đồng thời, tôi biết cách cân bằng giữa việc phát triển sự nghiệp và dành thời gian cho gia đình.</p>
+                        <div class="social-icons">
+                            
+                            
+                                                    </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-xs-12 text-center">
+                    <div class="profile">
+                        <img src="https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/fe61748bf94344485ab5e6911a08b424.jpeg" class="img-responsive img-circle" alt="Groom"/>
+                        <!--<h4>02/06/2000</h4>-->
+                        <h2>Nguyễn Thị Ngọc Linh</h2>
+                                                        <div class="parent-infos">
+                                	                                	<div class="parent-info"><span class="parent-title">Con ông:</span> <span class="parent-name">Nguyễn Ngọc Bích</span></div>
+                                	                                	
+                                	                                	<div class="parent-info"><span class="parent-title">Con bà:</span> <span class="parent-name">Nguyễn Thị Thanh</span></div>
+                                	                                </div>
+                                                     
+                        <p>Cô gái 2K đến từ thành phố biển Quy Nhơn, hiện đang sinh sống và làm việc tại TP.HCM. 
+Là một người hay cười nhưng lại sống nội tâm, đam mê múa và yêu thiên nhiên.</p>
+                        <div class="social-icons">
+                            
+                                                        
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+        <section class="section-accessibilities">
+    	<div class="container">
+        	<div class="row button-accessibilities">
+            	<div class="col col-lg-12">
+            		<div class="text-center btn-container">
+            			            			<a href="#wishes" class="accessibility-btn theme-btn album btn btn-primary btn-lg">
+							<span class="content-button">
+                                <img class="access-section-icon" src="https://cdn.biihappy.com/ziiweb/images/static/common/wishes.png" alt="access-btn"> Gửi lời chúc
+            				</span>
+            			</a>
+            			            			            			<a href="https://maithanhhoa.com/rsvp" target="_blank" class="accessibility-btn theme-btn album btn btn-primary btn-lg">
+                			<span class="content-button">
+	                			<img class="access-section-icon" src="https://cdn.biihappy.com/ziiweb/images/static/common/rsvp4.png" alt="access-btn"> Xác nhận tham dự
+	                		</span>
+                		</a>
+                		                		            		</div>
+            	</div>
+            </div>
+    	</div>
+    </section>
+    
+    <section id="counter" class="img-bg" data-stellar-background-ratio="0.5" style="background:url(https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/templates/6174edbdff1ef271cb2d8bc4/3dd11f80fa336d6972d10b8f1721b42f.jpg) no-repeat;">
+        <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 text-center">
+                    <h2>Counting the seconds for the big day!</h2>
+                    <div id="clock" data-date="2024-11-16" data-text-day="Ngày" data-text-hour="Giờ" data-text-minute="Phút" data-text-second="Giây"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+        <section id="our-story">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2 col-xs-12 text-center">
+                    <div class="title-block">
+                        <h1>Chuyện tình yêu</h1>
+                        <div class="divider"></div>
+                        <p><em>Tình yêu lớn không phải yêu nhiều người. Mà là yêu một người suốt cả cuộc đời.</em></p>
+                    </div>
+                </div>
+            </div>
+            <ul class="timeline">
+                                                        <li>
+                        <div class="timeline-badge"><i class="fa fa-heart" aria-hidden="true"></i></div>
+                        <div class="timeline-panel mb-30">
+                            <div class="timeline-heading">
+                                <h2 class="timeline-title"><span>January 14 2024</span></h2>
+                            </div>
+                            <div class="timeline-body text-right">
+                                <img src="https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/9fc5fe51de5976a66d431de001f8621d.jpeg" class="img-responsive" alt="Our Story"/>
+                            <h2 class="timeline-title">Phút giây cầu hôn</h2>
+                                <p>Vào một ngày đẹp trời anh hay hỏi em thích đi du lịch ở đâu (lúc này anh lên kế hoạch cầu hôn em), nhưng vì công việc em không thể đi du lịch tại thời điểm đó. Thế là nhân dịp sinh nhật anh đã cầu hôn em, từ giây phút anh ngỏ lời “Làm vợ anh nhé!”, em đã nguyện ý đời này, đi đâu cũng được, miễn là cùng anh.</p>
+                            </div>
+                        </div>
+                    </li>
+                                                                            <li class="timeline-inverted">
+                        <div class="timeline-badge"><i class="fa fa-heart" aria-hidden="true"></i></div>
+                        <div class="timeline-panel mb-30">
+                            <div class="timeline-heading">
+                                <h2 class="timeline-title"><span>October 22 2024</span></h2>
+                            </div>
+                            <div class="timeline-body text-left">
+                                <img src="https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/356cd09f6994c2bdb69aa067f7dbc833.jpeg" class="img-responsive" alt="Our Story"/>
+                                <h2 class="timeline-title">Ngày lễ đính hôn</h2>
+                                <p>“Tiếng trái tim đôi ta đập thật nhanh. Thì thầm lời yêu thương. Ngày tình về chung đôi...” Sau bao nhiêu ngày tháng chờ đợi, cuối cùng ngày vui của chúng ta cũng tới rồi. Cảm ơn vì chúng ta đã luôn là một phần trong cuộc sống của nhau. Em và anh không chỉ là người yêu mà chúng ta còn là tri kỷ. Ngày hôm nay, em sẽ là cô dâu của anh và sau này sẽ là mẹ của các con anh.</p>
+                            </div>
+                        </div>
+                    </li>
+                                                    <li>
+                    <div class="timeline-end">
+                        <div class="timeline-badge"><i class="fa fa-heart" aria-hidden="true"></i></div>
+                    </div>
+                </li>
+            </ul>
+            <!--<div class="row">-->
+            <!--    <div class="col-md-8 col-md-offset-2 col-xs-12 text-center">-->
+            <!--        <div class="final-frase"> <span>next step...</span></div>-->
+            <!--    </div>-->
+            <!--</div>-->
+        </div>
+    </section>
+    
+    <section id="frase" class="img-bg" data-stellar-background-ratio="0.5" style="background:url(https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/templates/6174edbdff1ef271cb2d8bc4/0b58052cd14c979b81d4d8a13f81a36a.jpg) no-repeat;">
+        <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2 col-xs-12 text-center">
+                        <h2><i class="fa fa-quote-left" aria-hidden="true"></i> Tình yêu không phải là nhìn vào nhau, mà là cùng nhìn về một hướng. <i class="fa fa-quote-right" aria-hidden="true"></i></h2>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    
+        <section id="gallery" class="bg-gray-1">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2 col-xs-12 text-center">
+                    <div class="title-block">
+                        <h1>Album Hình Cưới</h1>
+                        <div class="divider"></div>
+                        <p><em>Hạnh phúc không phải một người vì bạn mà bỏ cả thế giới. Hạnh phúc là một người vì bạn mà sắp xếp lại thế giới của mình.</em></p>
+                        <!-- <div class="gallery_nav">
+                            <button class="btn btn-primary btn-bordered filter-button active" data-filter="all">All</button>
+                            <button class="btn btn-primary btn-bordered filter-button" data-filter="gallery-family">Family</button>
+                            <button class="btn btn-primary btn-bordered filter-button" data-filter="gallery-friends">Friends</button>
+                            <button class="btn btn-primary btn-bordered filter-button" data-filter="gallery-trips">Trips</button>
+                            <button class="btn btn-primary btn-bordered filter-button" data-filter="gallery-portraits">Portraits</button>
+                        </div> -->
+                    </div>
+                </div>
+            </div>
+            <div class="row masonry-gallery">
+                                    <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d16d1cfab41bf0a09bbd6/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d16d1cfab41bf0a09bbd6/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                    
+                                        <div class="btn-see-more-gallery gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter gallery-family grid grid-item" data-index="0">
+                        <a class="mfp-image" title="Gallery image title">
+                            <img src="https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d16d1cfab41bf0a09bbd6/small.jpg" class="img-responsive" alt="Gallery image">
+                        </a>
+                    </div>
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d16bfc296c17a810b593b/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d16bfc296c17a810b593b/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                    
+                                        <div class="btn-see-more-gallery gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter gallery-family grid grid-item" data-index="1">
+                        <a class="mfp-image" title="Gallery image title">
+                            <img src="https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d16bfc296c17a810b593b/small.jpg" class="img-responsive" alt="Gallery image">
+                        </a>
+                    </div>
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d16b6d4f7e3c4990b2674/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d16b6d4f7e3c4990b2674/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                    
+                                        <div class="btn-see-more-gallery gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter gallery-family grid grid-item" data-index="2">
+                        <a class="mfp-image" title="Gallery image title">
+                            <img src="https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d16b6d4f7e3c4990b2674/small.jpg" class="img-responsive" alt="Gallery image">
+                        </a>
+                    </div>
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d15dd9fba7f208200e72e/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d15dd9fba7f208200e72e/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                    
+                                        <div class="btn-see-more-gallery gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter gallery-family grid grid-item" data-index="3">
+                        <a class="mfp-image" title="Gallery image title">
+                            <img src="https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d15dd9fba7f208200e72e/small.jpg" class="img-responsive" alt="Gallery image">
+                        </a>
+                    </div>
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d15d2c375594d2a056996/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d15d2c375594d2a056996/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                    
+                                        <div class="btn-see-more-gallery gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter gallery-family grid grid-item" data-index="4">
+                        <a class="mfp-image" title="Gallery image title">
+                            <img src="https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d15d2c375594d2a056996/small.jpg" class="img-responsive" alt="Gallery image">
+                        </a>
+                    </div>
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d15ce7b6e8115790f9b00/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d15ce7b6e8115790f9b00/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                    
+                                        <div class="btn-see-more-gallery gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter gallery-family grid grid-item" data-index="5">
+                        <a class="mfp-image" title="Gallery image title">
+                            <img src="https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d15ce7b6e8115790f9b00/small.jpg" class="img-responsive" alt="Gallery image">
+                        </a>
+                    </div>
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d15c643f64a53ca09aa28/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d15c643f64a53ca09aa28/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                    
+                                        <div class="btn-see-more-gallery gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter gallery-family grid grid-item" data-index="6">
+                        <a class="mfp-image" title="Gallery image title">
+                            <img src="https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d15c643f64a53ca09aa28/small.jpg" class="img-responsive" alt="Gallery image">
+                        </a>
+                    </div>
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d15c131af9f5c96004d24/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d15c131af9f5c96004d24/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                    
+                                        <div class="btn-see-more-gallery gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter gallery-family grid grid-item" data-index="7">
+                        <a class="mfp-image" title="Gallery image title">
+                            <img src="https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d15c131af9f5c96004d24/small.jpg" class="img-responsive" alt="Gallery image">
+                        </a>
+                    </div>
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d15bbe1d537cff00bc778/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d15bbe1d537cff00bc778/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                    
+                                        <div class="btn-see-more-gallery gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter gallery-family grid grid-item" data-index="8">
+                        <a class="mfp-image" title="Gallery image title">
+                            <img src="https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d15bbe1d537cff00bc778/small.jpg" class="img-responsive" alt="Gallery image">
+                        </a>
+                    </div>
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d15b7279e9ca2fe0b58c1/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d15b7279e9ca2fe0b58c1/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                    
+                                        <div class="btn-see-more-gallery gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter gallery-family grid grid-item" data-index="9">
+                        <a class="mfp-image" title="Gallery image title">
+                            <img src="https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d15b7279e9ca2fe0b58c1/small.jpg" class="img-responsive" alt="Gallery image">
+                        </a>
+                    </div>
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d15afd4f7e3c4990b2672/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d15afd4f7e3c4990b2672/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d15a5a5f4830f0e0af02a/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d15a5a5f4830f0e0af02a/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d1593279e9ca2fe0b58bf/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d1593279e9ca2fe0b58bf/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d15850bb245f6a40fe5ef/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d15850bb245f6a40fe5ef/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d1581a5f4830f0e0af029/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d1581a5f4830f0e0af029/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d13bcac595466960c6d25/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d13bcac595466960c6d25/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d13a0cfab41bf0a09bbd3/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d13a0cfab41bf0a09bbd3/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d13956ae73b1bee0ceecd/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d13956ae73b1bee0ceecd/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d13800bb245f6a40fe5ec/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/671d13800bb245f6a40fe5ec/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c7c9d4350274f07ef33/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c7c9d4350274f07ef33/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c72a8f3dbe6f5065753/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c72a8f3dbe6f5065753/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c5eabc2af1fd9030eb3/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c5eabc2af1fd9030eb3/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c5590a0392a980bb6e2/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c5590a0392a980bb6e2/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c5019bb5a1e070d0e20/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c5019bb5a1e070d0e20/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c4eb0fa87e66c0359ab/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c4eb0fa87e66c0359ab/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c499d4350274f07ef32/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c499d4350274f07ef32/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c4383e04557f60ab9d9/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c4383e04557f60ab9d9/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c3d351c7d54a80ad7f2/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c3d351c7d54a80ad7f2/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c379d82026ae301c647/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c379d82026ae301c647/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c32f8724c79430ac5b1/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c32f8724c79430ac5b1/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c2cb0fa87e66c0359aa/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c2cb0fa87e66c0359aa/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c25d80428c47c0ea1f9/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c25d80428c47c0ea1f9/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c1f9d82026ae301c646/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c1f9d82026ae301c646/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c18351c7d54a80ad7f1/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c18351c7d54a80ad7f1/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c0d053ae2bd6f026f86/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c0d053ae2bd6f026f86/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c07ed0150c3e20a9d39/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c07ed0150c3e20a9d39/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c01818d1d87220647db/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113c01818d1d87220647db/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113bfb19bb5a1e070d0e1f/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113bfb19bb5a1e070d0e1f/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113beec54e80601c00bd9c/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113beec54e80601c00bd9c/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113be89d4350274f07ef31/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113be89d4350274f07ef31/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113be219bb5a1e070d0e1e/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113be219bb5a1e070d0e1e/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113bdceae9497f900815d6/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113bdceae9497f900815d6/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113bd639533f65420da145/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113bd639533f65420da145/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113bd1f8724c79430ac5b0/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113bd1f8724c79430ac5b0/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113bbfa8f3dbe6f5065752/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113bbfa8f3dbe6f5065752/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113bb3f1f9c920b10cc6c0/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113bb3f1f9c920b10cc6c0/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113badb7bce2a8340caf05/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113badb7bce2a8340caf05/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113ba790a0392a980bb6e1/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113ba790a0392a980bb6e1/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113ba1abc2af1fd9030eb2/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113ba1abc2af1fd9030eb2/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b9bb0fa87e66c0359a9/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b9bb0fa87e66c0359a9/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b9590a0392a980bb6e0/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b9590a0392a980bb6e0/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b8eaf9137b93b0b8d44/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b8eaf9137b93b0b8d44/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b87818d1d87220647da/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b87818d1d87220647da/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b82b7bce2a8340caf04/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b82b7bce2a8340caf04/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b7ced0150c3e20a9d38/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b7ced0150c3e20a9d38/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b75f8724c79430ac5ae/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b75f8724c79430ac5ae/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b6f818d1d87220647d9/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b6f818d1d87220647d9/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b6919bb5a1e070d0e1d/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b6919bb5a1e070d0e1d/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b629d4350274f07ef22/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b629d4350274f07ef22/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b5bd80428c47c0ea1f6/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b5bd80428c47c0ea1f6/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b56eae9497f900815d5/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b56eae9497f900815d5/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b4f01c52072b600b750/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b4f01c52072b600b750/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b489d82026ae301c645/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b489d82026ae301c645/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b3b83e04557f60ab9d8/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b3b83e04557f60ab9d8/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b349d82026ae301c644/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b349d82026ae301c644/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b2fb7bce2a8340caf03/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b2fb7bce2a8340caf03/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b2883e04557f60ab9d7/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b2883e04557f60ab9d7/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b22af9137b93b0b8d43/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b22af9137b93b0b8d43/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b1aeae9497f900815d4/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/67113b1aeae9497f900815d4/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                        <script type="text/javascript">
+                        photoGalleries.push({
+                            src : "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/670a9643bd0a997e0e0382a7/large.jpg",
+                            thumb: "https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/galleries/670a9643bd0a997e0e0382a7/small.jpg",
+                            subHtml: `<div class="lg-sub-html"><h4></h4></div>`
+                        });
+                    </script>
+                                                                
+                                                </div>
+
+                        <div class="text-center btn-see-more-wrap" data-aos="fade-up">
+                <a href="javascript:void(0)" id="btn-see-more-gallery" class="btn btn-see-more-gallery text-white p-2">
+                    <span> Tất cả hình ảnh </span>
+                </a>
+            </div>
+                    </div>
+    </section>
+    
+    
+        <div class="container" id="events">
+        <section id="whenwhere">
+            <div class="title-block">
+                <h1 class="location-heading">Sự Kiện Cưới</h1>
+                <div class="divider"></div>
+                <p><em>Chỉ mất vài giây để nói &quot;anh yêu em&quot; nhưng lại mất cả đời để chứng tỏ điều đó.</em></p>
+            </div>
+            <div class="row">
+                <div class="location-grids clearfix">
+                    	                    		                    <div class="grid col-lg-3 col-sm-6">
+		                        <div class="grid-item">
+		                            <div class="img-holder">
+		                                <img src="https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/b9d4964a68d398eacf5960c179958228.jpeg" alt>
+                                        		                            </div>
+		                            <div class="datails">
+		                                <h3>LỄ ĐÍNH HÔN</h3>
+		                                <ul>
+		                                    <li><strong><i class="ti-time"></i>10:00 22/10/2024</strong></li>
+		                                    <li style="margin-top: 5px;">
+                                                <i class="ti-location-pin"></i>
+                                                                                                    <span>Nhà gái - </span>
+                                                                                                Phường Quang Trung, Quy Nhơn, Bình Định
+                                            </li>
+		                                </ul>
+		                                <div class="calendar-button">
+		                                    <div class="atcb" style="display:none;">
+											{
+											  "name":"LỄ ĐÍNH HÔN (Đám cưới Thanh Hòa và Ngọc Linh)",
+											  "description":"Cảm ơn bạn đã dành thời gian tham dự đám cưới của chúng tôi!. Thông tin chi tiết xem tại website:<br>[url]https://maithanhhoa.com[/url]",
+											  "startDate":"2024-10-22",
+											  "endDate":"2024-10-22",
+											  "startTime":"10:00",
+											  "endTime":"10:00",
+											  "location":"Phường Quang Trung, Quy Nhơn, Bình Định",
+											  "options":["Apple","Google","iCal","Microsoft365","MicrosoftTeams","Outlook.com","Yahoo"],
+											  "timeZone":"Asia/Ho_Chi_Minh",
+											  "iCalFileName":"Reminder-Event",
+											  "listStyle":"modal",
+											  "label":"Thêm vào lịch",
+											  "trigger":"click"
+											}
+											</div>
+										</div>
+		                                <a class="see-location-btn popup-gmaps" href="https://www.google.com/maps/place/Ph%C6%B0%E1%BB%9Dng%20Quang%20Trung%2C%20Quy%20Nh%C6%A1n%2C%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh" target="_blank">
+		                                    xem bản đồ <i class="fa fa-angle-right"></i>
+		                                </a>
+		                            </div>
+		                        </div>
+		                    </div>
+	                                        	                    		                    <div class="grid col-lg-3 col-sm-6">
+		                        <div class="grid-item">
+		                            <div class="img-holder">
+		                                <img src="https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/cb74c85e4c31b2fe47658f76681b7ad1.jpeg" alt>
+                                        		                            </div>
+		                            <div class="datails">
+		                                <h3>TIỆC CƯỚI NHÀ GÁI</h3>
+		                                <ul>
+		                                    <li><strong><i class="ti-time"></i>17:30 06/11/2024</strong></li>
+		                                    <li style="margin-top: 5px;">
+                                                <i class="ti-location-pin"></i>
+                                                                                                    <span>Nhà Hàng Trầu Cau 2 - </span>
+                                                                                                Đường Lê Lợi, Hải Cảng, Quy Nhơn, Bình Định
+                                            </li>
+		                                </ul>
+		                                <div class="calendar-button">
+		                                    <div class="atcb" style="display:none;">
+											{
+											  "name":"TIỆC CƯỚI NHÀ GÁI (Đám cưới Thanh Hòa và Ngọc Linh)",
+											  "description":"Cảm ơn bạn đã dành thời gian tham dự đám cưới của chúng tôi!. Thông tin chi tiết xem tại website:<br>[url]https://maithanhhoa.com[/url]",
+											  "startDate":"2024-11-06",
+											  "endDate":"2024-11-06",
+											  "startTime":"17:30",
+											  "endTime":"17:30",
+											  "location":"Đường Lê Lợi, Hải Cảng, Quy Nhơn, Bình Định",
+											  "options":["Apple","Google","iCal","Microsoft365","MicrosoftTeams","Outlook.com","Yahoo"],
+											  "timeZone":"Asia/Ho_Chi_Minh",
+											  "iCalFileName":"Reminder-Event",
+											  "listStyle":"modal",
+											  "label":"Thêm vào lịch",
+											  "trigger":"click"
+											}
+											</div>
+										</div>
+		                                <a class="see-location-btn popup-gmaps" href="https://g.co/kgs/YrWRPzL" target="_blank">
+		                                    xem bản đồ <i class="fa fa-angle-right"></i>
+		                                </a>
+		                            </div>
+		                        </div>
+		                    </div>
+	                                        	                    		                    <div class="grid col-lg-3 col-sm-6">
+		                        <div class="grid-item">
+		                            <div class="img-holder">
+		                                <img src="https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/daae82e02c4f573acca07385cb190467.jpeg" alt>
+                                        		                            </div>
+		                            <div class="datails">
+		                                <h3>LỄ VU QUY</h3>
+		                                <ul>
+		                                    <li><strong><i class="ti-time"></i>06:00 08/11/2024</strong></li>
+		                                    <li style="margin-top: 5px;">
+                                                <i class="ti-location-pin"></i>
+                                                                                                    <span>Nhà gái - </span>
+                                                                                                Phường Quang Trung, Quy Nhơn, Bình Định
+                                            </li>
+		                                </ul>
+		                                <div class="calendar-button">
+		                                    <div class="atcb" style="display:none;">
+											{
+											  "name":"LỄ VU QUY (Đám cưới Thanh Hòa và Ngọc Linh)",
+											  "description":"Cảm ơn bạn đã dành thời gian tham dự đám cưới của chúng tôi!. Thông tin chi tiết xem tại website:<br>[url]https://maithanhhoa.com[/url]",
+											  "startDate":"2024-11-08",
+											  "endDate":"2024-11-08",
+											  "startTime":"06:00",
+											  "endTime":"06:00",
+											  "location":"Phường Quang Trung, Quy Nhơn, Bình Định",
+											  "options":["Apple","Google","iCal","Microsoft365","MicrosoftTeams","Outlook.com","Yahoo"],
+											  "timeZone":"Asia/Ho_Chi_Minh",
+											  "iCalFileName":"Reminder-Event",
+											  "listStyle":"modal",
+											  "label":"Thêm vào lịch",
+											  "trigger":"click"
+											}
+											</div>
+										</div>
+		                                <a class="see-location-btn popup-gmaps" href="https://www.google.com/maps/place/Ph%C6%B0%E1%BB%9Dng%20Quang%20Trung%2C%20Quy%20Nh%C6%A1n%2C%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh" target="_blank">
+		                                    xem bản đồ <i class="fa fa-angle-right"></i>
+		                                </a>
+		                            </div>
+		                        </div>
+		                    </div>
+	                                        	                    		                    <div class="grid col-lg-3 col-sm-6">
+		                        <div class="grid-item">
+		                            <div class="img-holder">
+		                                <img src="https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/d394507b960152af6c8d8801de195154.jpeg" alt>
+                                        		                            </div>
+		                            <div class="datails">
+		                                <h3>LỄ THÀNH HÔN</h3>
+		                                <ul>
+		                                    <li><strong><i class="ti-time"></i>10:00 08/11/2024</strong></li>
+		                                    <li style="margin-top: 5px;">
+                                                <i class="ti-location-pin"></i>
+                                                                                                    <span> - </span>
+                                                                                                Nhà Trai - Xuân An, Cát Minh, Phù Cát, Bình Định
+                                            </li>
+		                                </ul>
+		                                <div class="calendar-button">
+		                                    <div class="atcb" style="display:none;">
+											{
+											  "name":"LỄ THÀNH HÔN (Đám cưới Thanh Hòa và Ngọc Linh)",
+											  "description":"Cảm ơn bạn đã dành thời gian tham dự đám cưới của chúng tôi!. Thông tin chi tiết xem tại website:<br>[url]https://maithanhhoa.com[/url]",
+											  "startDate":"2024-11-08",
+											  "endDate":"2024-11-08",
+											  "startTime":"10:00",
+											  "endTime":"10:00",
+											  "location":"Nhà Trai - Xuân An, Cát Minh, Phù Cát, Bình Định",
+											  "options":["Apple","Google","iCal","Microsoft365","MicrosoftTeams","Outlook.com","Yahoo"],
+											  "timeZone":"Asia/Ho_Chi_Minh",
+											  "iCalFileName":"Reminder-Event",
+											  "listStyle":"modal",
+											  "label":"Thêm vào lịch",
+											  "trigger":"click"
+											}
+											</div>
+										</div>
+		                                <a class="see-location-btn popup-gmaps" href="https://www.google.com/maps/place/Nh%C3%A0%20Trai%20-%20Xu%C3%A2n%20An%2C%20C%C3%A1t%20Minh%2C%20Ph%C3%B9%20C%C3%A1t%2C%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh" target="_blank">
+		                                    xem bản đồ <i class="fa fa-angle-right"></i>
+		                                </a>
+		                            </div>
+		                        </div>
+		                    </div>
+	                                        	                    		                    <div class="grid col-lg-3 col-sm-6">
+		                        <div class="grid-item">
+		                            <div class="img-holder">
+		                                <img src="https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/49e55fe1140ce26df4e9ae26e27feb22.jpeg" alt>
+                                        		                            </div>
+		                            <div class="datails">
+		                                <h3>TIỆC CƯỚI NHÀ TRAI</h3>
+		                                <ul>
+		                                    <li><strong><i class="ti-time"></i>11:30 08/11/2024</strong></li>
+		                                    <li style="margin-top: 5px;">
+                                                <i class="ti-location-pin"></i>
+                                                                                                    <span>Nhà Hàng Hoàng Hải - </span>
+                                                                                                Xuân An, Cát Minh, Phù Cát, Bình Định
+                                            </li>
+		                                </ul>
+		                                <div class="calendar-button">
+		                                    <div class="atcb" style="display:none;">
+											{
+											  "name":"TIỆC CƯỚI NHÀ TRAI (Đám cưới Thanh Hòa và Ngọc Linh)",
+											  "description":"Cảm ơn bạn đã dành thời gian tham dự đám cưới của chúng tôi!. Thông tin chi tiết xem tại website:<br>[url]https://maithanhhoa.com[/url]",
+											  "startDate":"2024-11-08",
+											  "endDate":"2024-11-08",
+											  "startTime":"11:30",
+											  "endTime":"11:30",
+											  "location":"Xuân An, Cát Minh, Phù Cát, Bình Định",
+											  "options":["Apple","Google","iCal","Microsoft365","MicrosoftTeams","Outlook.com","Yahoo"],
+											  "timeZone":"Asia/Ho_Chi_Minh",
+											  "iCalFileName":"Reminder-Event",
+											  "listStyle":"modal",
+											  "label":"Thêm vào lịch",
+											  "trigger":"click"
+											}
+											</div>
+										</div>
+		                                <a class="see-location-btn popup-gmaps" href="https://g.co/kgs/YLTu7WB" target="_blank">
+		                                    xem bản đồ <i class="fa fa-angle-right"></i>
+		                                </a>
+		                            </div>
+		                        </div>
+		                    </div>
+	                                        	                    		                    <div class="grid col-lg-3 col-sm-6">
+		                        <div class="grid-item">
+		                            <div class="img-holder">
+		                                <img src="https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/1844fa99775d887ef3ae106e2797a38c.jpeg" alt>
+                                        		                            </div>
+		                            <div class="datails">
+		                                <h3>LỄ BÁO HỶ - HCM</h3>
+		                                <ul>
+		                                    <li><strong><i class="ti-time"></i>17:30 16/11/2024</strong></li>
+		                                    <li style="margin-top: 5px;">
+                                                <i class="ti-location-pin"></i>
+                                                                                                    <span>Nhà hàng Gold Palace - </span>
+                                                                                                329 Đ. Nơ Trang Long, Phường 13, Bình Thạnh, Hồ Chí Minh
+                                            </li>
+		                                </ul>
+		                                <div class="calendar-button">
+		                                    <div class="atcb" style="display:none;">
+											{
+											  "name":"LỄ BÁO HỶ - HCM (Đám cưới Thanh Hòa và Ngọc Linh)",
+											  "description":"Cảm ơn bạn đã dành thời gian tham dự đám cưới của chúng tôi!. Thông tin chi tiết xem tại website:<br>[url]https://maithanhhoa.com[/url]",
+											  "startDate":"2024-11-16",
+											  "endDate":"2024-11-16",
+											  "startTime":"17:30",
+											  "endTime":"17:30",
+											  "location":"329 Đ. Nơ Trang Long, Phường 13, Bình Thạnh, Hồ Chí Minh",
+											  "options":["Apple","Google","iCal","Microsoft365","MicrosoftTeams","Outlook.com","Yahoo"],
+											  "timeZone":"Asia/Ho_Chi_Minh",
+											  "iCalFileName":"Reminder-Event",
+											  "listStyle":"modal",
+											  "label":"Thêm vào lịch",
+											  "trigger":"click"
+											}
+											</div>
+										</div>
+		                                <a class="see-location-btn popup-gmaps" href="https://g.co/kgs/FfXkvaw" target="_blank">
+		                                    xem bản đồ <i class="fa fa-angle-right"></i>
+		                                </a>
+		                            </div>
+		                        </div>
+		                    </div>
+	                                                        </div>
+            </div>
+        </section>
+    </div>
+        
+	    <section id="wishes" class="img-bg" data-stellar-background-ratio="0.5" style="background:url(https://cdn.biihappy.com/ziiweb/website/6704024f1f86242a9d04e6a0/templates/6174edbdff1ef271cb2d8bc4/4b6ef4fedc9fd3d53ca2f0a2ef48e3de.jpg) no-repeat;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-10 col-md-offset-1 col-xs-12 text-center">
+                    <div class="title-block">
+                        <h1>Sổ Lưu Bút</h1>
+                        <div class="divider"></div>
+                        <!--<p><em>Please select the events you are going to attend, and fill the following form with to confirm.</em></p>-->
+                    </div>
+                    
+                </div>
+                <div style="display: flex;width: 100%;justify-content: center;flex-wrap: wrap;">
+                    <div class="col col-lg-6 col-md-7 mb-30" style="max-width: 100%;">
+                        <p class="bot-mrg-30">Cảm ơn bạn rất nhiều vì đã gửi những lời chúc mừng tốt đẹp nhất đến đám cưới của chúng tôi!</p>
+                        <form id="ajaxForm" class="form validate-rsvp-form contact-validation-active" method="post">
+                            <div class="row">
+                                <div class="col col-sm-6">
+                                    <div class="form-group">
+                                        <input type="text" name="name" class="form-control" placeholder="Nhập họ tên*">
+                                    </div>
+                                </div>
+                                <div class="col col-sm-6">
+                                    <div class="form-group">
+                                        <input type="email" name="email" class="form-control" placeholder="Nhập email">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="form-group position-relative textarea-emoji-picker">
+                                        <div class="vitualTextarea">
+                                            <textarea id="content" rows='5' class="form-control" name="content" placeholder="Nhập lời chúc của bạn*"></textarea>
+                                            <div class="textAreaIcons">
+                                                <span class="show-autocomplete tooltip-custom" data-toggle="tooltip" data-placement="top" title="Lời chúc gợi ý">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-lightbulb" viewBox="0 0 16 16">
+                                                      <path d="M2 6a6 6 0 1 1 10.174 4.31c-.203.196-.359.4-.453.619l-.762 1.769A.5.5 0 0 1 10.5 13a.5.5 0 0 1 0 1 .5.5 0 0 1 0 1l-.224.447a1 1 0 0 1-.894.553H6.618a1 1 0 0 1-.894-.553L5.5 15a.5.5 0 0 1 0-1 .5.5 0 0 1 0-1 .5.5 0 0 1-.46-.302l-.761-1.77a2 2 0 0 0-.453-.618A5.98 5.98 0 0 1 2 6m6-5a5 5 0 0 0-3.479 8.592c.263.254.514.564.676.941L5.83 12h4.342l.632-1.467c.162-.377.413-.687.676-.941A5 5 0 0 0 8 1"/>
+                                                    </svg>
+                                                </span>
+                                                <span class="hide-autocomplete tooltip-custom" style="display: none;">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-lightbulb-off" viewBox="0 0 16 16">
+                                                      <path fill-rule="evenodd" d="M2.23 4.35A6 6 0 0 0 2 6c0 1.691.7 3.22 1.826 4.31.203.196.359.4.453.619l.762 1.769A.5.5 0 0 0 5.5 13a.5.5 0 0 0 0 1 .5.5 0 0 0 0 1l.224.447a1 1 0 0 0 .894.553h2.764a1 1 0 0 0 .894-.553L10.5 15a.5.5 0 0 0 0-1 .5.5 0 0 0 0-1 .5.5 0 0 0 .288-.091L9.878 12H5.83l-.632-1.467a3 3 0 0 0-.676-.941 4.98 4.98 0 0 1-1.455-4.405zm1.588-2.653.708.707a5 5 0 0 1 7.07 7.07l.707.707a6 6 0 0 0-8.484-8.484zm-2.172-.051a.5.5 0 0 1 .708 0l12 12a.5.5 0 0 1-.708.708l-12-12a.5.5 0 0 1 0-.708"/>
+                                                    </svg>
+                                                </span>
+                                                <span class="emoji-picker-button tooltip-custom" data-toggle="tooltip" data-placement="top" title="Chèn biểu tượng">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-emoji-smile" viewBox="0 0 16 16">
+                                                      <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16"/>
+                                                      <path d="M4.285 9.567a.5.5 0 0 1 .683.183A3.5 3.5 0 0 0 8 11.5a3.5 3.5 0 0 0 3.032-1.75.5.5 0 1 1 .866.5A4.5 4.5 0 0 1 8 12.5a4.5 4.5 0 0 1-3.898-2.25.5.5 0 0 1 .183-.683M7 6.5C7 7.328 6.552 8 6 8s-1-.672-1-1.5S5.448 5 6 5s1 .672 1 1.5m4 0c0 .828-.448 1.5-1 1.5s-1-.672-1-1.5S9.448 5 10 5s1 .672 1 1.5"/>
+                                                    </svg>
+                                                </span>
+                                                <div class="wishes-autocomplete-content" style="display: none;">
+                                                    <input type="text" id="searchWishSuggestions" onkeyup="searchWishSuggestionsFunction()" placeholder="Tìm kiếm...">
+                                                    <ul id="wishSuggestions">
+                                                                                                                <li><a class="showContent" href="#">Chúc mừng hạnh phúc! Chúc hai bạn trăm năm hạnh phúc!</a></li>
+                                                                                                                <li><a class="showContent" href="#">Chúc mừng ngày trọng đại tới hai bạn. Hạnh phúc bền lâu và trọn vẹn nhé!</a></li>
+                                                                                                                <li><a class="showContent" href="#">Chúc mừng hạnh phúc hai bạn. Chúc hai bạn bên nhau đầu bạc răng long, sớm có thiên thần nhỏ nhé!</a></li>
+                                                                                                                <li><a class="showContent" href="#">Chúc hai bạn ngày vui hạnh phúc. Hãy yêu thương nhau thật nhiều và sống thật hạnh phúc nha!</a></li>
+                                                                                                                <li><a class="showContent" href="#">Chúc hai bạn sớm có con đàn cháu đống, cửa nhà lúc nào cũng đầm ấm, yên vui nhé!</a></li>
+                                                                                                                <li><a class="showContent" href="#">Thật vui vì cuối cùng ngày này cũng tới với bạn. Tôi thành tâm chúc hai bạn thật nhiều hạnh phúc và sống đời vui vẻ cùng nhau mãi mãi!</a></li>
+                                                                                                                <li><a class="showContent" href="#">Một chương mới đã mở ra với hai bạn rồi. Tôi mong cuộc sống mới của cả hai sẽ tràn ngập hy vọng, hạnh phúc và niềm vui!</a></li>
+                                                                                                                <li><a class="showContent" href="#">Chúc đôi trai tài gái sắc hạnh phúc trọn vẹn, luôn yêu thương nhau thật nhiều!</a></li>
+                                                                                                                <li><a class="showContent" href="#">Chia vui cùng bạn trong ngày trọng đại này. Cầu mong cuộc sống sau này của 2 vợ chồng thật thuận hòa, may mắn, làm ăn phát tài nha.</a></li>
+                                                                                                                <li><a class="showContent" href="#">Tôi mong tình yêu của hai bạn thật bền chặt, gắn bó để xây dựng tổ ấm yên bình, hạnh phúc!</a></li>
+                                                                                                                <li><a class="showContent" href="#">Hai bạn của tôi chắc chắn sẽ có được nhiều hạnh phúc. Mong hai bạn có sức khỏe dồi dào, làm ăn phát đạt và sớm có cháu cho ông bà bồng bế nhé!</a></li>
+                                                                                                                <li><a class="showContent" href="#">Gửi lời chúc mừng chân thành nhất tới bạn của tôi. Chúc hai bạn một cuộc sống thật tuyệt vời, hòa thuận, gắn bó son sắt, thủy chung, hạnh phúc lâu dài.</a></li>
+                                                                                                                <li><a class="showContent" href="#">Nơi nào có yêu thương nơi đó chắc chắn hạnh phúc. Hai bạn đã tìm được nơi đủ đầy yêu thương rồi, hãy cùng nắm tay nhau đi hết cuộc đời nhé!</a></li>
+                                                                                                                <li><a class="showContent" href="#">Khởi đầu một cuộc sống mới, nguyện ước cho bạn của tôi những ngày tháng hạnh phúc phía trước để cùng xây dựng tổ ấm với người bạn đời. Happy ending!</a></li>
+                                                                                                                <li><a class="showContent" href="#">Mình tin rằng đây sẽ là khởi đầu cho những điều tốt đẹp sắp tới trong cuộc sống của hai bạn. Hãy yêu thương và cùng nhau vượt qua mọi khó khăn trong cuộc sống nhé.</a></li>
+                                                                                                                <li><a class="showContent" href="#">Hôn nhân đánh dấu sự kết thúc một câu chuyện tình yêu và bắt đầu một trận đấu vật. Chúc bạn những điều tốt đẹp nhất.</a></li>
+                                                                                                                <li><a class="showContent" href="#">Tôi sẽ nói cho bạn bí mật của một cuộc hôn nhân hạnh phúc. Đó vẫn là … một bí mật cho tất cả! Chúc bạn tất cả những điều tốt đẹp nhất của thời gian phía trước.</a></li>
+                                                                                                                <li><a class="showContent" href="#">Hôn nhân thật đẹp. Cuối cùng bạn đã tìm thấy một người mà bạn bị làm phiền suốt cuộc đời.</a></li>
+                                                                                                                <li><a class="showContent" href="#">Hai trở thành một: Một giường, một điều khiển từ xa, một phòng tắm! Xin chúc mừng đám cưới hai bạn.</a></li>
+                                                                                                                <li><a class="showContent" href="#">Chúc đôi trai tài gái sắc nhà mình hạnh phúc vẹn tròn, cung hỷ cung hỷ!</a></li>
+                                                                                                                <li><a class="showContent" href="#">Chúc mừng anh trai của em đã có người rước nhé. Em mong anh chị có cuộc sống vui vẻ, hạnh phúc phía trước, làm ăn phát tài phát lộc.</a></li>
+                                                                                                                <li><a class="showContent" href="#">Anh chị là một cặp trời sinh, chắc chắn sau này sẽ rất hạnh phúc. Em chúc anh chị sức khỏe dồi dào, làm ăn phát đạt và sớm có thiên thần nhỏ cho vui cửa vui nhà.</a></li>
+                                                                                                                <li><a class="showContent" href="#">Hôm nay là ngày vui của anh chị và cũng là ngày em rất hạnh phúc. Chúc anh chị mãi yêu thương nhau như bây giờ và đạt được mọi ước nguyện trong cuộc sống.</a></li>
+                                                                                                                <li><a class="showContent" href="#">Chúc anh/chị/em trăm năm hạnh phúc, thuận vợ thuận chồng.</a></li>
+                                                                                                                <li><a class="showContent" href="#">Hôm nay chú rể đẹp trai, cô dâu xinh gái. Chúc mừng ngày thành hôn hai bạn tôi!</a></li>
+                                                                                                                <li><a class="showContent" href="#">Chúc mừng đôi bạn trẻ nhé! Mãi yêu thương nhau đến đầu bạc răng long bạn nha!</a></li>
+                                                                                                                <li><a class="showContent" href="#">Thay mặt team (tên nhóm) chúc hai bạn ngày ngày ân ái, bên nhau trọn đời.</a></li>
+                                                                                                                <li><a class="showContent" href="#">Happy wedding! Chúc hai bạn có cuộc sống mới ngập tràn tiếng cười và niềm vui, sớm có thiên thần nhỏ bồng bé!</a></li>
+                                                                                                            </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        
+                                        <div class="emoji-picker">
+                                            <emoji-picker style="max-width: 100%;min-width:300px;" class="light"></emoji-picker>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col col-sm-12 submit-btn text-center">
+                                <button type="submit" class="btn btn-primary btn-lg mb-30">Gửi lời chúc</button>
+                            </div>
+                            <div class="clearfix error-handling-messages col col-sm-12">
+                                <div id="success">Thank you</div>
+                                <div id="error"> Error occurred while sending email. Please try again later.
+                                </div>
+                            </div>
+                        </form>
+                        
+                    </div>
+                    <div class="col col-lg-6 col-md-5 " style="max-width: 100%;">
+                        <div class="wish-box">
+                                                        <div class="wish-box-item ">
+                                <strong>Giả Ngọc Trúc Lâm</strong>
+                                <p>Chúc đôi bạn sớm có tin vui, mà tin vui đây là: vợ chồng luôn vui vẻ mỗi ngày, còn ‘tin vui khác’ thì cứ từ từ cũng được! 😉</p>
+                                <script type="text/javascript">
+                                    dataWishes.push({
+                                        name: `Giả Ngọc Trúc Lâm`,
+                                        content: `Chúc đôi bạn sớm có tin vui, mà tin vui đây là: vợ chồng luôn vui vẻ mỗi ngày, còn ‘tin vui khác’ thì cứ từ từ cũng được! 😉`
+                                    });
+                                </script>
+                                                            </div>
+                                                        <div class="wish-box-item bg">
+                                <strong>Nguyễn Thanh Phong</strong>
+                                <p>Em Phong chúc anh chị trăm năm hạnh phúc, 1 đời bình an 💞</p>
+                                <script type="text/javascript">
+                                    dataWishes.push({
+                                        name: `Nguyễn Thanh Phong`,
+                                        content: `Em Phong chúc anh chị trăm năm hạnh phúc, 1 đời bình an 💞`
+                                    });
+                                </script>
+                                                            </div>
+                                                        <div class="wish-box-item ">
+                                <strong>Hoàng Mai Chí Thành</strong>
+                                <p>Mãi mãi hạnh phúc anh chị nhé</p>
+                                <script type="text/javascript">
+                                    dataWishes.push({
+                                        name: `Hoàng Mai Chí Thành`,
+                                        content: `Mãi mãi hạnh phúc anh chị nhé`
+                                    });
+                                </script>
+                                                                <p style="border-top: 1px dashed #aaa;padding-top: 0.5rem;display: flex;align-items: center;">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
+                                        <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5z"></path>
+                                    </svg>
+                                    <img src="data:image/png;base64,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" style="width: 32px;margin-left: 5px;">
+                                    <span style="margin-left: 5px;">Thanks người em tài năng!</span>
+                                </p>
+                                                            </div>
+                                                        <div class="wish-box-item bg">
+                                <strong>Em Viễn</strong>
+                                <p>Chúc mừng Anh - Chị, chúc cho mối tình này 1505! ^)^</p>
+                                <script type="text/javascript">
+                                    dataWishes.push({
+                                        name: `Em Viễn`,
+                                        content: `Chúc mừng Anh - Chị, chúc cho mối tình này 1505! ^)^`
+                                    });
+                                </script>
+                                                                <p style="border-top: 1px dashed #aaa;padding-top: 0.5rem;display: flex;align-items: center;">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
+                                        <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5z"></path>
+                                    </svg>
+                                    <img src="data:image/png;base64,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" style="width: 32px;margin-left: 5px;">
+                                    <span style="margin-left: 5px;">&quot;Một ngàn năm không phai&quot; Tks em giai</span>
+                                </p>
+                                                            </div>
+                                                        <div class="wish-box-item ">
+                                <strong>Bùi Thị Thục Đoan</strong>
+                                <p>Mến chúc 2 em mãi hạnh phúc ! :)</p>
+                                <script type="text/javascript">
+                                    dataWishes.push({
+                                        name: `Bùi Thị Thục Đoan`,
+                                        content: `Mến chúc 2 em mãi hạnh phúc ! :)`
+                                    });
+                                </script>
+                                                                <p style="border-top: 1px dashed #aaa;padding-top: 0.5rem;display: flex;align-items: center;">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
+                                        <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5z"></path>
+                                    </svg>
+                                    <img src="data:image/png;base64,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" style="width: 32px;margin-left: 5px;">
+                                    <span style="margin-left: 5px;">Cám ơn lời chúc từ chị ^^</span>
+                                </p>
+                                                            </div>
+                                                        <div class="wish-box-item bg">
+                                <strong>Bạn Lý</strong>
+                                <p>Cuối cùng bạn tui cũng lấy vợ rồi..Mình chúc vợ chồng bạn có một hôn nhân hạnh phúc, tràn đầy niềm vui và gắn kết với nhau trên mọi chặng đường.🥰</p>
+                                <script type="text/javascript">
+                                    dataWishes.push({
+                                        name: `Bạn Lý`,
+                                        content: `Cuối cùng bạn tui cũng lấy vợ rồi..Mình chúc vợ chồng bạn có một hôn nhân hạnh phúc, tràn đầy niềm vui và gắn kết với nhau trên mọi chặng đường.🥰`
+                                    });
+                                </script>
+                                                                <p style="border-top: 1px dashed #aaa;padding-top: 0.5rem;display: flex;align-items: center;">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
+                                        <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5z"></path>
+                                    </svg>
+                                    <img src="data:image/png;base64,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" style="width: 32px;margin-left: 5px;">
+                                    <span style="margin-left: 5px;">Thanks cô bạn mười mấy năm</span>
+                                </p>
+                                                            </div>
+                                                        <div class="wish-box-item ">
+                                <strong>Phan Huỳnh Khánh Duy</strong>
+                                <p>Em chúc Vợ Chồng Anh Chị Trăm năm hạnh phúc, bách niên giai lão 🫶 sức khoẻ dồi dào, con đàn cháu đống. 🥰</p>
+                                <script type="text/javascript">
+                                    dataWishes.push({
+                                        name: `Phan Huỳnh Khánh Duy`,
+                                        content: `Em chúc Vợ Chồng Anh Chị Trăm năm hạnh phúc, bách niên giai lão 🫶 sức khoẻ dồi dào, con đàn cháu đống. 🥰`
+                                    });
+                                </script>
+                                                                <p style="border-top: 1px dashed #aaa;padding-top: 0.5rem;display: flex;align-items: center;">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
+                                        <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5z"></path>
+                                    </svg>
+                                    <img src="data:image/png;base64,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" style="width: 32px;margin-left: 5px;">
+                                    <span style="margin-left: 5px;">Cảm ơn những lời chúc tốt đẹp của Sếp Duy 🍻🍻</span>
+                                </p>
+                                                            </div>
+                                                        <div class="wish-box-item bg">
+                                <strong>Thanh Dung A6</strong>
+                                <p>Chúc bạn yêu luôn vui vẻ và hạnh phúc với sự lựa chọn của mìnhhhhh ❤️</p>
+                                <script type="text/javascript">
+                                    dataWishes.push({
+                                        name: `Thanh Dung A6`,
+                                        content: `Chúc bạn yêu luôn vui vẻ và hạnh phúc với sự lựa chọn của mìnhhhhh ❤️`
+                                    });
+                                </script>
+                                                                <p style="border-top: 1px dashed #aaa;padding-top: 0.5rem;display: flex;align-items: center;">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
+                                        <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5z"></path>
+                                    </svg>
+                                    <img src="data:image/png;base64,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" style="width: 32px;margin-left: 5px;">
+                                    <span style="margin-left: 5px;">Cám ơn bạn iuu❤️</span>
+                                </p>
+                                                            </div>
+                                                        <div class="wish-box-item ">
+                                <strong>Phương Thảo</strong>
+                                <p>Chúc vợ chồng anh 1 đời hạnh phúc - an vui. Mãi yêu thương đến đầu bạc răng long nhé!</p>
+                                <script type="text/javascript">
+                                    dataWishes.push({
+                                        name: `Phương Thảo`,
+                                        content: `Chúc vợ chồng anh 1 đời hạnh phúc - an vui. Mãi yêu thương đến đầu bạc răng long nhé!`
+                                    });
+                                </script>
+                                                                <p style="border-top: 1px dashed #aaa;padding-top: 0.5rem;display: flex;align-items: center;">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
+                                        <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5z"></path>
+                                    </svg>
+                                    <img src="data:image/png;base64,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" style="width: 32px;margin-left: 5px;">
+                                    <span style="margin-left: 5px;">Cám ơn em Thảo nhiều!</span>
+                                </p>
+                                                            </div>
+                                                        <div class="wish-box-item bg">
+                                <strong>Châu Văn Nhuận</strong>
+                                <p>Chúc hai bạn hạnh bình. Bình an bên nhau trọn đời. Năm sau nghe tin vui nhé.</p>
+                                <script type="text/javascript">
+                                    dataWishes.push({
+                                        name: `Châu Văn Nhuận`,
+                                        content: `Chúc hai bạn hạnh bình. Bình an bên nhau trọn đời. Năm sau nghe tin vui nhé.`
+                                    });
+                                </script>
+                                                                <p style="border-top: 1px dashed #aaa;padding-top: 0.5rem;display: flex;align-items: center;">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
+                                        <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5z"></path>
+                                    </svg>
+                                    <img src="data:image/png;base64,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" style="width: 32px;margin-left: 5px;">
+                                    <span style="margin-left: 5px;">Cám ơn Nhuận ^^</span>
+                                </p>
+                                                            </div>
+                                                        <div class="wish-box-item ">
+                                <strong>Đồng Thị Lệ</strong>
+                                <p>Chúc vợ chồng Hoà 1 đời bình bình an an bên nhau hạnh phúc. Hạnh phúc thật nhiều nhé bạn!</p>
+                                <script type="text/javascript">
+                                    dataWishes.push({
+                                        name: `Đồng Thị Lệ`,
+                                        content: `Chúc vợ chồng Hoà 1 đời bình bình an an bên nhau hạnh phúc. Hạnh phúc thật nhiều nhé bạn!`
+                                    });
+                                </script>
+                                                                <p style="border-top: 1px dashed #aaa;padding-top: 0.5rem;display: flex;align-items: center;">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
+                                        <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5z"></path>
+                                    </svg>
+                                    <img src="data:image/png;base64,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" style="width: 32px;margin-left: 5px;">
+                                    <span style="margin-left: 5px;">Cám ơn bạn hiền ^^</span>
+                                </p>
+                                                            </div>
+                                                        <div class="wish-box-item bg">
+                                <strong>Tracy</strong>
+                                <p>Tuyệt vời nhất đời. Chúc mừng MTH đã có bến bờ hạnh phúc ạ.</p>
+                                <script type="text/javascript">
+                                    dataWishes.push({
+                                        name: `Tracy`,
+                                        content: `Tuyệt vời nhất đời. Chúc mừng MTH đã có bến bờ hạnh phúc ạ.`
+                                    });
+                                </script>
+                                                                <p style="border-top: 1px dashed #aaa;padding-top: 0.5rem;display: flex;align-items: center;">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
+                                        <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5z"></path>
+                                    </svg>
+                                    <img src="data:image/png;base64,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" style="width: 32px;margin-left: 5px;">
+                                    <span style="margin-left: 5px;">Cám ơn em Trang nhe</span>
+                                </p>
+                                                            </div>
+                                                        <div class="wish-box-item ">
+                                <strong>Hoàng Nguyễn Đức Quang</strong>
+                                <p>Chúc 2 em hạnh phúc.🥥</p>
+                                <script type="text/javascript">
+                                    dataWishes.push({
+                                        name: `Hoàng Nguyễn Đức Quang`,
+                                        content: `Chúc 2 em hạnh phúc.🥥`
+                                    });
+                                </script>
+                                                            </div>
+                                                        <div class="wish-box-item bg">
+                                <strong>Bạn Vi</strong>
+                                <p>Chúc mừng anh bạn rất rất là lâu lăm của mình. Anh bạn cuối cùng của cái tụ 4 đứa giờ đã chịu đeo tròng và cô bé nhà bên trăm năm hạnh phúc nhé🥰</p>
+                                <script type="text/javascript">
+                                    dataWishes.push({
+                                        name: `Bạn Vi`,
+                                        content: `Chúc mừng anh bạn rất rất là lâu lăm của mình. Anh bạn cuối cùng của cái tụ 4 đứa giờ đã chịu đeo tròng và cô bé nhà bên trăm năm hạnh phúc nhé🥰`
+                                    });
+                                </script>
+                                                                <p style="border-top: 1px dashed #aaa;padding-top: 0.5rem;display: flex;align-items: center;">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
+                                        <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5z"></path>
+                                    </svg>
+                                    <img src="data:image/png;base64,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" style="width: 32px;margin-left: 5px;">
+                                    <span style="margin-left: 5px;">Cám ơn những lời chúc của bạn! 🤩</span>
+                                </p>
+                                                            </div>
+                                                        <div class="wish-box-item ">
+                                <strong>Phạm Tấn Tài</strong>
+                                <p>Chúc anh bạn hàng xóm hạnh phúc đông đầy, Sớm có baby. Mình tham dự đám cưới bạn ở quê nhé bạn.</p>
+                                <script type="text/javascript">
+                                    dataWishes.push({
+                                        name: `Phạm Tấn Tài`,
+                                        content: `Chúc anh bạn hàng xóm hạnh phúc đông đầy, Sớm có baby. Mình tham dự đám cưới bạn ở quê nhé bạn.`
+                                    });
+                                </script>
+                                                                <p style="border-top: 1px dashed #aaa;padding-top: 0.5rem;display: flex;align-items: center;">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
+                                        <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5z"></path>
+                                    </svg>
+                                    <img src="data:image/png;base64,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" style="width: 32px;margin-left: 5px;">
+                                    <span style="margin-left: 5px;">Cám ơn Tài, chờ tới lượt bạn :D</span>
+                                </p>
+                                                            </div>
+                                                        <div class="wish-box-item bg">
+                                <strong>Văn hàng xóm</strong>
+                                <p>Ngày này cũng tới. Chúc vợ chồng anh bạn hàng xóm hạnh phúc nhé :))</p>
+                                <script type="text/javascript">
+                                    dataWishes.push({
+                                        name: `Văn hàng xóm`,
+                                        content: `Ngày này cũng tới. Chúc vợ chồng anh bạn hàng xóm hạnh phúc nhé :))`
+                                    });
+                                </script>
+                                                                <p style="border-top: 1px dashed #aaa;padding-top: 0.5rem;display: flex;align-items: center;">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
+                                        <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5z"></path>
+                                    </svg>
+                                    <img src="data:image/png;base64,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" style="width: 32px;margin-left: 5px;">
+                                    <span style="margin-left: 5px;">Chạy đua lấy vợ xong, giờ tới lượt chạy đua có em bé haha</span>
+                                </p>
+                                                            </div>
+                                                        <div class="wish-box-item ">
+                                <strong>Nhii Thắm A6😍</strong>
+                                <p>Chúc mừng lớp phó A6 nha, chúc bạn sẽ siêu siêu hạnh phúc và sớm có baby 😁</p>
+                                <script type="text/javascript">
+                                    dataWishes.push({
+                                        name: `Nhii Thắm A6😍`,
+                                        content: `Chúc mừng lớp phó A6 nha, chúc bạn sẽ siêu siêu hạnh phúc và sớm có baby 😁`
+                                    });
+                                </script>
+                                                                <p style="border-top: 1px dashed #aaa;padding-top: 0.5rem;display: flex;align-items: center;">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
+                                        <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5z"></path>
+                                    </svg>
+                                    <img src="data:image/png;base64,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" style="width: 32px;margin-left: 5px;">
+                                    <span style="margin-left: 5px;">Cám ơn bạn iu, vế sau hơi sợ nhenn😂</span>
+                                </p>
+                                                            </div>
+                                                        <div class="wish-box-item bg">
+                                <strong>Hưởng nà✌️</strong>
+                                <p>Chúc anh Hoà và Linh hạnh phúc thiệt nhiều nhé, vì một chuyện tình rất đẹp, như một sự sắp đặt của định mệnh vậy!</p>
+                                <script type="text/javascript">
+                                    dataWishes.push({
+                                        name: `Hưởng nà✌️`,
+                                        content: `Chúc anh Hoà và Linh hạnh phúc thiệt nhiều nhé, vì một chuyện tình rất đẹp, như một sự sắp đặt của định mệnh vậy!`
+                                    });
+                                </script>
+                                                                <p style="border-top: 1px dashed #aaa;padding-top: 0.5rem;display: flex;align-items: center;">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-right" viewBox="0 0 16 16">
+                                        <path fill-rule="evenodd" d="M1.5 1.5A.5.5 0 0 0 1 2v4.8a2.5 2.5 0 0 0 2.5 2.5h9.793l-3.347 3.346a.5.5 0 0 0 .708.708l4.2-4.2a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 8.3H3.5A1.5 1.5 0 0 1 2 6.8V2a.5.5 0 0 0-.5-.5z"></path>
+                                    </svg>
+                                    <img src="data:image/png;base64,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" style="width: 32px;margin-left: 5px;">
+                                    <span style="margin-left: 5px;">Cám ơn bạn iu nhiều nhiều♥️</span>
+                                </p>
+                                                            </div>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section id="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-10 col-md-offset-1 col-xs-12 text-center">
+                    <h1>Lời ngỏ: Cảm ơn tất cả những người bạn thân yêu của tôi!  Tôi biết các bạn rất bận rộn, bận rộn với công việc gia đình…Nhưng tất cả đã có mặt hôm nay để chúc mừng tinh yêu và hạnh phúc của chúng tôi. Một lần nữa chân thành cảm ơn tất cả các bạn!</h1>
+                    <ul class="names">
+                        <li>Thanh Hòa</li>
+                        <li class="circle">&amp;</li>
+                        <li>Ngọc Linh</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div id="donate-modal" class="donate-modal">
+        <div class="donate-modal-content">
+            <div class="donate-modal-header">
+                <span class="donate-modal-close">&times;</span>
+                <strong>
+                	<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-coin" viewBox="0 0 16 16">
+					  <path d="M5.5 9.511c.076.954.83 1.697 2.182 1.785V12h.6v-.709c1.4-.098 2.218-.846 2.218-1.932 0-.987-.626-1.496-1.745-1.76l-.473-.112V5.57c.6.068.982.396 1.074.85h1.052c-.076-.919-.864-1.638-2.126-1.716V4h-.6v.719c-1.195.117-2.01.836-2.01 1.853 0 .9.606 1.472 1.613 1.707l.397.098v2.034c-.615-.093-1.022-.43-1.114-.9H5.5zm2.177-2.166c-.59-.137-.91-.416-.91-.836 0-.47.345-.822.915-.925v1.76h-.005zm.692 1.193c.717.166 1.048.435 1.048.91 0 .542-.412.914-1.135.982V8.518l.087.02z"/>
+					  <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+					  <path d="M8 13.5a5.5 5.5 0 1 1 0-11 5.5 5.5 0 0 1 0 11zm0 .5A6 6 0 1 0 8 2a6 6 0 0 0 0 12z"/>
+					</svg> 
+                	<span>Hộp mừng cưới</span>
+                </strong>
+            </div>
+            <div class="donate-modal-body">
+            	<div class="donate-box">
+            		                                    </div>
+            </div>
+        </div>
+    </div>
+
+        <div id="menu-access" class="">
+        <div class="btn-menu-open">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-list" viewBox="0 0 16 16">
+                <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5"/>
+            </svg>
+        </div>
+        <div class="btn-menu-close">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-x-lg" viewBox="0 0 16 16">
+                <path d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8z"/>
+            </svg>
+        </div>
+        <ul class="p-0 m-0 list-menu-icon">
+                        <li class="text-center">
+                <a href="#wishes" class="text-white">
+                    <span class="content-button tooltipBtn">
+                        <span class="tooltiptext">Gửi lời chúc</span>
+                        <img class="access-icon" src="https://cdn.biihappy.com/ziiweb/images/static/common/wishes.png" alt="">
+                    </span>
+                </a>
+            </li>
+            
+                        <li class="text-center">
+                <a href="https://maithanhhoa.com/rsvp" target="_blank" class="text-white">
+                    <span class="content-button tooltipBtn">
+                        <span class="tooltiptext">Xác nhận tham dự</span>
+                        <img class="access-icon" src="https://cdn.biihappy.com/ziiweb/images/static/common/rsvp4.png" alt="">
+                    </span>
+                </a>
+            </li>
+            
+                    </ul>
+    </div>
+        
+    <script src="https://maithanhhoa.com/templates/template3/js/jquery-plugin-collection.js?v=202506122"></script>
+    <script type="text/javascript">
+        function sanitizeJsonString(jsonString) {
+            return jsonString
+                .replace(/[\n\r\t]/g, '')
+                .replace(/[\u0000-\u001F]+/g, '')
+                .replace(/,(\s*[}\]])/g, '$1');
+        }
+        function parseJsonRecursively(jsonString) {
+            let sanitizedString = sanitizeJsonString(jsonString);
+            let parsed = JSON.parse(sanitizedString);
+            Object.keys(parsed).forEach(function(key) {
+                try {
+                	let checkValue = JSON.parse(parsed[key]);
+                	if (checkValue && checkValue.constructor === Object) {
+		                parsed[key] = checkValue;
+		            }
+                } catch (e) {
+
+                }
+            });
+            return parsed;
+        }
+    	let biicore = parseJsonRecursively('{"template_id":"6174edbdff1ef271cb2d8bc4","templatePremium":false,"themeRoot":"https:\/\/maithanhhoa.com\/templates\/template3","webroot":"https:\/\/maithanhhoa.com","coreSite":"https:\/\/biihappy.com","webToken":"6704024f1f86242a9d04e6a0","isPremium":true,"bgMusic":"https:\/\/cdn.biihappy.com\/ziiweb\/wedding-musics\/IDo-911.mp3","alert":{"title":"\u0110\u0102NG K\u00dd NH\u1eacN H\u00ccNH \u1ea2NH","content":"\u0110\u0102NG K\u00dd NH\u1eacN H\u00ccNH \u1ea2NH<br \/>\r\nhttps:\/\/zafago-jsc.larksuite.com\/share\/base\/form\/shruskd9qUicP0NhFCQrxTbO9Tb","timeout":4000,"status":1,"cancel_button_text":"B\u1ecf qua"},"effect":"{\\\"type\\\":\\\"heart\\\"}","logo":"https:\/\/iwedding.info\/common\/imgs\/bii.png?v=20210131","url_landing_page":"https:\/\/biihappy.com\/iwedding","isAutoPlay":false,"footer_title":"iWedding | N\u1ec1n t\u1ea3ng t\u1ea1o website \u0111\u00e1m c\u01b0\u1edbi mi\u1ec5n ph\u00ed t\u1eeb Biihappy","footer_title_mobile":"T\u1ea1o website \u0111\u00e1m c\u01b0\u1edbi mi\u1ec5n ph\u00ed"}');
+    </script>
+    <script src="https://maithanhhoa.com/templates/template3/js/script.js?v=202506122"></script>
+    <script src="https://maithanhhoa.com/common/calendar.js?v=202506122"></script>
+    <script src="https://maithanhhoa.com/common/biicommon.min.js?v=202506122"></script>
+    <script src="https://maithanhhoa.com/common/emoji-picker/js/insertTextAtCursor.js?v=202506122"></script>
+    <script type="module" src="https://maithanhhoa.com/common/emoji-picker/js/init.js?v=202506122"></script>
+    <script src="https://maithanhhoa.com/common/toastr/toastr.min.js?v=202506122"></script>
+    <script type="text/javascript">
+        if (typeof  toastMessageWishes === 'function') {
+            toastMessageWishes(dataWishes,'wishes');
+        }
+    </script>
+  </body>
+
+</html>
